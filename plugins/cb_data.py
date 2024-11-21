@@ -18,7 +18,7 @@ import humanize
 
 
 # Born to make history @LazyDeveloper !
-@Client.on_callback_query(filters.regex('rename'))
+@Client.on_callback_query(filters.regex('cancel'))
 async def rename(bot, update):
     user_id = update.message.chat.id
     date = update.message.date
@@ -27,7 +27,7 @@ async def rename(bot, update):
                                     reply_to_message_id=update.message.reply_to_message.id,
                                     reply_markup=ForceReply(True))
 
-@Client.on_callback_query(filters.regex("upload"))
+@Client.on_callback_query(filters.regex("rename"))
 async def doc(bot, update):
     type = update.data.split("_")[1]
     user_id = int(update.message.chat.id)
