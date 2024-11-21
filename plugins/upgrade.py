@@ -55,7 +55,7 @@ Daily Upload limit 100GB
 Price Rs 50  ind /🌎 2.16$  per Month
 
 Payment Details :-
-<b>➜ UPI ID :</b> <code>RahulReviews@UPI</code>
+<b>➜ UPI ID :</b> <code>9023072764-2@ybl</code>
 
 After Payment Send Screenshots Of Payment To Admin @CodeXBro"""
     
