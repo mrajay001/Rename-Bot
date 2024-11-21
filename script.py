@@ -30,7 +30,7 @@ class script(object):
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>RahulReviews@UPI</code> 
+<b>🛍 UPI ID:</b> <code>9023072764-2@ybl</code> 
 
 <b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
 
